@@ -1,0 +1,23 @@
+{
+  "name": "treino-discover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-bassani/treino-discover.git"
+  },
+  "author": "Gabriel Bassani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-bassani/treino-discover/issues"
+  },
+  "homepage": "https://github.com/gabriel-bassani/treino-discover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
